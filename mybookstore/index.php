@@ -9,7 +9,7 @@
 		<!-- Always force latest IE rendering engine or request Chrome Frame -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<!-- Page Title -->
-        <title>Themefisher.Free Bootstrap3 based HTML5 Templates</title>		
+        <title>myBOOKstore</title>		
 		<!-- Meta Description -->
         <meta name="description" content="Blue One Page Creative HTML5 Template">
         <meta name="keywords" content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
@@ -63,7 +63,7 @@
 					<!-- /responsive nav button -->
 					
 					<!-- logo -->
-                   <h1 >myBOOKstore</h1>
+                    <h1 ><a href="index.php">myBOOKstore</a></h1>
 					<!-- /logo -->
                 </div>
 
@@ -71,10 +71,10 @@
                 <nav class="collapse navbar-collapse navbar-right" role="navigation">
                     <ul id="nav" class="nav navbar-nav">
                         <li class="current"><a href="#body">Home</a></li>
+                        <li><a href="#login">login</a></li>
                         <li><a href="#features">Features</a></li>
                         <li><a href="#works">Work</a></li>
                         <li><a href="#team">Team</a></li>
-                        <li><a href="http://google.com">Contact</a></li>
                     </ul>
                 </nav>
 				<!-- /main nav -->
@@ -147,7 +147,9 @@
         <!--
         End Home SliderEnd
         ==================================== -->
-		
+		<section id="login">
+        login to continue.
+        </section>
         <!--
         Features
         ==================================== -->
