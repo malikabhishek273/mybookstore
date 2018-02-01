@@ -355,8 +355,8 @@
 								<p></p>
 								<ul class="social-links text-center">
 									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
-									<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
+									<li><a href="https://www.facebook.com/divyansh.singhal.161"><i class="fa fa-facebook fa-lg"></i></a></li>
+									
 								</ul>
 							</figcaption>
 						</div>
@@ -374,8 +374,7 @@
 								<p></p>
 								<ul class="social-links text-center">
 									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
-									<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
+									<li><a href="https://www.facebook.com/abhiskek.malik"><i class="fa fa-facebook fa-lg"></i></a></li>
 								</ul>
 							</figcaption>
 						</div>
