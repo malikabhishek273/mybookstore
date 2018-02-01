@@ -71,10 +71,10 @@
                 <nav class="collapse navbar-collapse navbar-right" role="navigation">
                     <ul id="nav" class="nav navbar-nav">
                         <li class="current"><a href="#body">Home</a></li>
-                        <li><a href="#login">login</a></li>
                         <li><a href="#features">Features</a></li>
                         <li><a href="#works">Work</a></li>
                         <li><a href="#team">Team</a></li>
+                        <li><a href="#contact">Contact us</a></li>
                     </ul>
                 </nav>
 				<!-- /main nav -->
@@ -107,7 +107,7 @@
 					<!-- single slide -->
 					<div class="item active" style="background-image: url(img/banner.jpg);">
 						<div class="carousel-caption">
-                            <button  style="font-size:35px; background-color: #1EA78D; "class="btn btn-success">LOGIN/SIGNUP</button>
+                            <a href="login.php"><button  style="font-size:35px; background-color: #1EA78D; "class="btn btn-success">LOGIN/SIGNUP</button></a>
 							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated"><span> myBOOKstore</span>!</h2>
 							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color"></span> All your favorite books are a click away.</h3>
 							<p data-wow-duration="1000ms" class="wow slideInRight animated">Our life is a book and those who do not enjoy read only one page.</p>
@@ -125,7 +125,7 @@
 					<!-- single slide -->
 					<div class="item" style="background-image: url(img/banner.jpg);">
 						<div class="carousel-caption">
-                             <button  style="font-size:35px; background-color: #1EA78D; "class="btn btn-success">LOGIN/SIGNUP</button>
+                            <a href="login.php"> <button  style="font-size:35px; background-color: #1EA78D; "class="btn btn-success">LOGIN/SIGNUP</button></a>
 							<h2 data-wow-duration="500ms" data-wow-delay="500ms" class="wow bounceInDown animated"><span> myBOOKstore</span>!</h2>
 							<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color"></span> Only place where u can find all the books.</h3>
 							<p data-wow-duration="500ms" class="wow slideInRight animated">Honesty is the first chapter in the book of wisdom.</p>
@@ -149,9 +149,6 @@
         <!--
         End Home SliderEnd
         ==================================== -->
-		<section id="login">
-        login to continue.
-        </section>
         <!--
         Features
         ==================================== -->
