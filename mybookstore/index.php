@@ -349,7 +349,7 @@
 					<!-- single member -->
 					<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
 						<div class="member-thumb">
-							<img src="" alt="Team Member" class="img-responsive">
+							<img src="WIN_20161109_12_51_22_Pro.jpg" alt="Team Member" class="img-responsive">
 							<figcaption class="overlay">
 								<h5> </h5>
 								<p></p>
@@ -361,14 +361,14 @@
 							</figcaption>
 						</div>
 						<h4></h4>
-						<span>Managing Director</span>
+						<span>CEO,Co-Founder</span>
 					</figure>
 					<!-- end single member -->
 					
 					<!-- single member -->
 					<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
 						<div class="member-thumb">
-							<img src="" alt="Team Member" class="img-responsive">
+							<img src="amalik.jpg" alt="Team Member" class="img-responsive">
 							<figcaption class="overlay">
 								<h5> </h5>
 								<p></p>
@@ -380,47 +380,14 @@
 							</figcaption>
 						</div>
 						<h4></h4>
-						<span></span>
+						<span>A newbie</span>
 					</figure>
 					<!-- end single member -->
 					
-					<!-- single member -->
-					<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
-						<div class="member-thumb">
-							<img src="" alt="Team Member" class="img-responsive">
-							<figcaption class="overlay">
-								<h5> </h5>
-								<p></p>
-								<ul class="social-links text-center">
-									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
-									<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
-								</ul>
-							</figcaption>
-						</div>
-						<h4></h4>
-						<span></span>
-					</figure>
-					<!-- end single member -->
+										<!-- end single member -->
 					
 					<!-- single member -->
-					<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
-						<div class="member-thumb">
-							<img src="" alt="Team Member" class="img-responsive">
-							<figcaption class="overlay">
-								<h5></h5>
-								<p></p>
-								<ul class="social-links text-center">
-									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
-									<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
-								</ul>
-							</figcaption>
-						</div>
-						<h4></h4>
-						<span></span>
-					</figure>
-					<!-- end single member -->
+										<!-- end single member -->
 					
 				</div>
 			</div>
