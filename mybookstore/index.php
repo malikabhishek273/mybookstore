@@ -72,7 +72,7 @@
                     <ul id="nav" class="nav navbar-nav">
                         <li class="current"><a href="#body">Home</a></li>
                         <li><a href="#features">Features</a></li>
-                        <li><a href="#works">Work</a></li>
+                        <li><a href="#works">Books</a></li>
                         <li><a href="#team">Team</a></li>
                         <li><a href="#contact">Contact us</a></li>
                     </ul>
@@ -226,6 +226,7 @@
 				
 					<div class="sec-title text-center">
 						<h2>Books</h2>
+                        <a href="books.php"><button  style="font-size:20px; background-color: #1EA78D; position :relative; float: right; "class="btn btn-success">View All >></button></a>
 						<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 					</div>
 					
@@ -322,7 +323,6 @@
 				
 			</div>
 		
-
 		</section>
 		
         <!--
@@ -414,7 +414,7 @@
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
 							<div class="counters-item">
 								<i class="fa fa-clock-o fa-3x"></i>
-								<strong data-to="3200">0</strong>
+								<strong data-to="0">0</strong>
 								<!-- Set Your Number here. i,e. data-to="56" -->
 								<p>Hours of Work</p>
 							</div>
@@ -422,7 +422,7 @@
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
 							<div class="counters-item">
 								<i class="fa fa-users fa-3x"></i>
-								<strong data-to="120">0</strong>
+								<strong data-to="0">0</strong>
 								<!-- Set Your Number here. i,e. data-to="56" -->
 								<p>Satisfied Clients</p>
 							</div>
@@ -430,7 +430,7 @@
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
 							<div class="counters-item">
 								<i class="fa fa-rocket fa-3x"></i>
-								<strong data-to="360">0</strong>
+								<strong data-to="0">0</strong>
 								<!-- Set Your Number here. i,e. data-to="56" -->
 								<p> Projects Delivered </p>
 							</div>
